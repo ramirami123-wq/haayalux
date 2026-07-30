@@ -205,7 +205,7 @@
         "use_custom_colors": true,
         "colors_icon": "#f1ff34",
         "colors_text": "#212326",
-        "colors_background": "#D6B097",
+        "colors_background": "#d6b097",
         "gradient_background": "linear-gradient(310deg, rgba(214, 176, 151, 1) 15%, rgba(250, 218, 221, 1) 85%)",
         "padding_top": 16,
         "padding_bottom": 16
@@ -273,7 +273,7 @@
         "use_custom_colors": true,
         "colors_icon": "#f1ff34",
         "colors_text": "#212326",
-        "colors_background": "#FAF4EF",
+        "colors_background": "#faf4ef",
         "gradient_background": "linear-gradient(310deg, rgba(214, 176, 151, 1) 15%, rgba(250, 218, 221, 1) 85%)",
         "padding_top": 16,
         "padding_bottom": 16
@@ -296,6 +296,29 @@
       "settings": {
         "custom_liquid": "<style>.hx-faq{padding:56px 20px;background:#FAF4EF;font-family:Arial,sans-serif;color:#241A1A}.hx-faq-inner{max-width:780px;margin:auto}.hx-faq h2{text-align:center;font-size:34px;margin:0 0 8px}.hx-faq .lead{text-align:center;color:#6B5A58;margin:0 0 30px}.hx-faq details{background:#fff;border:1px solid #E8D8D2;border-radius:14px;margin-bottom:10px;padding:0 18px}.hx-faq summary{cursor:pointer;font-weight:700;padding:18px 28px 18px 0;list-style:none;position:relative}.hx-faq summary:after{content:'+';position:absolute;right:0;font-size:22px;color:#7A1830}.hx-faq details[open] summary:after{content:'–'}.hx-faq p{color:#6B5A58;font-size:14px;line-height:1.6;margin:0;padding:0 0 18px}@media(max-width:749px){.hx-faq{padding:40px 16px}.hx-faq h2{font-size:28px}}</style><section class=\"hx-faq\"><div class=\"hx-faq-inner\"><h2>Frequently Asked Questions</h2><p class=\"lead\">Everything you need to know before beginning your LED ritual.</p><details><summary>How do I use the LED mask?</summary><p>Begin with clean, dry skin. Fit the mask comfortably, select your preferred mode and use it for 10–20 minutes. Finish with serum or moisturizer.</p></details><details><summary>How often should I use it?</summary><p>For a consistent routine, use the mask 3–5 times per week. Follow the included instructions and stop if you experience discomfort.</p></details><details><summary>Is it suitable for all skin types?</summary><p>The mask is designed for all skin types. If you are photosensitive, take photosensitizing medication, have an eye condition or are under medical care, consult a qualified professional before use.</p></details><details><summary>What is included?</summary><p>The kit includes the flexible LED face mask, handheld controller, straps, eye inserts and charging cable.</p></details><details><summary>How do payment and delivery work?</summary><p>Cash on delivery is available. Orders are delivered across Lebanon, typically within 2–3 business days.</p></details><details><summary>Do you offer exchanges?</summary><p>Damaged items may be exchanged within 14 days of delivery. Contact Haylux support promptly and keep the original packaging.</p></details></div></section>",
         "full_width": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1785417500cdc8d762": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_EEtDYA": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_EEtDYA"
+      ],
+      "settings": {
+        "include_margins": true,
         "show_divider": false,
         "padding_top": 36,
         "padding_bottom": 36
@@ -446,6 +469,7 @@
     "scrolling_promotion_hjyWPn",
     "custom_liquid_KTjbVe",
     "custom_liquid_i8k6n6",
+    "1785417500cdc8d762",
     "custom_liquid_K8YeaH",
     "guarantees_4jiQMN",
     "recently-viewed-products",
