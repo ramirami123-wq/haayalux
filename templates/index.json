@@ -28,10 +28,10 @@
         "image_width": 1,
         "padding_top": 70,
         "padding_bottom": 70,
-        "bg_color": "#FAF4EF",
-        "heading_color": "#241A1A",
-        "text_color": "#6B5A58",
-        "btn1_color": "#D6B097"
+        "bg_color": "#faf4ef",
+        "heading_color": "#241a1a",
+        "text_color": "#6b5a58",
+        "btn1_color": "#d6b097"
       }
     },
     "slideshow": {
@@ -109,7 +109,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#D6B097",
+        "colors_background": "#d6b097",
         "gradient_background": "",
         "padding_top": 12,
         "padding_bottom": 12
@@ -278,7 +278,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#D6B097",
+        "colors_background": "#d6b097",
         "gradient_background": "",
         "padding_top": 12,
         "padding_bottom": 12
@@ -290,57 +290,29 @@
         "question_4ztBJn": {
           "type": "question",
           "settings": {
-            "title": "Are the products safe to use?",
-            "text": "<p>Yes, all our products are sourced from trusted suppliers and are safe for everyday use.<br/>You can find usage instructions and details on each product page.</p>"
+            "title": "Are your products safe for all skin types?",
+            "text": "<p>Absolutely!Our products are suitable for all skin types. </p>"
           }
         },
         "question_9wPzUR": {
           "type": "question",
           "settings": {
-            "title": "What if I receive a damaged or defective item?",
-            "text": "<p>If an item arrives damaged or not working, we will replace it.<br/>Please contact us within 48 hours of delivery through email or WhatsApp.</p>"
+            "title": "How can I pay?",
+            "text": "<p>Cash on delivery-How long will delivery take? Usually 2-3 business days </p>"
           }
         },
         "question_hPz4h6": {
           "type": "question",
           "settings": {
-            "title": "Can I cancel my order?",
-            "text": "<p>Yes, we can cancel orders as long as they haven’t been shipped yet.<br/>Once the courier has picked up your order, we can no longer cancel it.</p>"
+            "title": "Do you offer exchanges?",
+            "text": "<p>Yes, within 14 days of delivery in case of damaged item </p>"
           }
         },
         "question_6mMfQ4": {
           "type": "question",
           "settings": {
-            "title": "How can I contact customer support?",
-            "text": "<p>You can always reach us at:<br/>📧 <a>hello@zeidbeauty.com</a><br/>📱 WhatsApp: +961 79 010 758</p>"
-          }
-        },
-        "question_BgCjz4": {
-          "type": "question",
-          "settings": {
-            "title": "How can I track my order?",
-            "text": "<p>After your order is shipped, our local courier will message or call you with delivery updates.<br/>You can also reach out to us anytime if you need help.</p>"
-          }
-        },
-        "question_WHh8pf": {
-          "type": "question",
-          "settings": {
-            "title": "How does delivery work and how long does it take?",
-            "text": "<p>We ship using trusted local couriers to ensure fast and reliable delivery. Once your order is processed, the courier will contact you by message or phone to confirm the delivery details. Most orders arrive within 2 to 5 business days anywhere in Lebanon. At the moment, we deliver within Lebanon only and do not offer international shipping.</p>"
-          }
-        },
-        "question_4pwiTr": {
-          "type": "question",
-          "settings": {
-            "title": "Do you offer refunds?",
-            "text": "<p>Refunds are provided for damaged or incorrect items after review.<br/>If approved, refunds are processed using the original payment method.</p>"
-          }
-        },
-        "question_LBPPLa": {
-          "type": "question",
-          "settings": {
-            "title": "What payment methods do you accept?",
-            "text": "<p>We accept:</p><ul><li><strong>Cash on Delivery</strong></li><li><strong>Online transfers through Whish Money</strong></li></ul>"
+            "title": "Do you ship internationally?",
+            "text": "<p>Currently we ship within Lebanon. International shipping may be available soon </p>"
           }
         }
       },
@@ -348,11 +320,7 @@
         "question_4ztBJn",
         "question_9wPzUR",
         "question_hPz4h6",
-        "question_6mMfQ4",
-        "question_BgCjz4",
-        "question_WHh8pf",
-        "question_4pwiTr",
-        "question_LBPPLa"
+        "question_6mMfQ4"
       ],
       "name": "t:sections.faq.presets.name",
       "settings": {
