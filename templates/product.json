@@ -205,8 +205,8 @@
         "use_custom_colors": true,
         "colors_icon": "#f1ff34",
         "colors_text": "#212326",
-        "colors_background": "#d6b097",
-        "gradient_background": "linear-gradient(310deg, rgba(214, 176, 151, 1) 15%, rgba(250, 218, 221, 1) 85%)",
+        "colors_background": "#E6B662",
+        "gradient_background": "linear-gradient(310deg, rgba(230, 182, 98, 1) 15%, rgba(250, 218, 221, 1) 85%)",
         "padding_top": 16,
         "padding_bottom": 16
       }
@@ -273,8 +273,8 @@
         "use_custom_colors": true,
         "colors_icon": "#f1ff34",
         "colors_text": "#212326",
-        "colors_background": "#faf4ef",
-        "gradient_background": "linear-gradient(310deg, rgba(214, 176, 151, 1) 15%, rgba(250, 218, 221, 1) 85%)",
+        "colors_background": "#E6B662",
+        "gradient_background": "linear-gradient(310deg, rgba(230, 182, 98, 1) 15%, rgba(250, 218, 221, 1) 85%)",
         "padding_top": 16,
         "padding_bottom": 16
       }
