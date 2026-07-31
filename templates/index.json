@@ -31,7 +31,7 @@
         "bg_color": "#faf4ef",
         "heading_color": "#241a1a",
         "text_color": "#6b5a58",
-        "btn1_color": "#d6b097"
+        "btn1_color": "#E6B662"
       }
     },
     "slideshow": {
@@ -109,7 +109,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#d6b097",
+        "colors_background": "#E6B662",
         "gradient_background": "",
         "padding_top": 12,
         "padding_bottom": 12
@@ -278,7 +278,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#d6b097",
+        "colors_background": "#E6B662",
         "gradient_background": "",
         "padding_top": 12,
         "padding_bottom": 12
