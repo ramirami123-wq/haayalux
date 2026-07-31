@@ -47,8 +47,8 @@
       "type": "header",
       "settings": {
         "logo": "shopify://shop_images/dddd-removebg-preview.png",
-        "logo_height": 62,
-        "mobile_logo_height": 46,
+        "logo_height": 100,
+        "mobile_logo_height": 80,
         "logo_position": "off-canvas",
         "menu": "main-menu",
         "menu_mobile": "",
