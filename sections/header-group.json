@@ -37,8 +37,8 @@
         "direction": "left",
         "speed": 1.6,
         "colors_text": "#ffffff",
-        "colors_background": "#E6B662",
-        "gradient_background": "linear-gradient(0deg, rgba(230, 182, 98, 1), rgba(97, 30, 30, 0) 100%, rgba(252, 231, 239, 1) 100%)",
+        "colors_background": "#e6b662",
+        "gradient_background": "radial-gradient(rgba(230, 182, 98, 1), rgba(255, 204, 75, 1) 100%)",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -72,9 +72,9 @@
         "mobile_logo_position": "center",
         "colors_text": "#333333",
         "colors_border": "#333333",
-        "colors_background": "#EFE0D0",
+        "colors_background": "#efe0d0",
         "gradient_background": "",
-        "colors_highlight": "#E8D1A6",
+        "colors_highlight": "#e8d1a6",
         "padding_top": 12,
         "padding_bottom": 12
       }
