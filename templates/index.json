@@ -28,10 +28,10 @@
         "image_width": 1,
         "padding_top": 70,
         "padding_bottom": 70,
-        "bg_color": "#faf4ef",
+        "bg_color": "#EFE0D0",
         "heading_color": "#241a1a",
         "text_color": "#6b5a58",
-        "btn1_color": "#E6B662"
+        "btn1_color": "#e6b662"
       }
     },
     "slideshow": {
@@ -130,7 +130,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#E6B662",
+        "colors_background": "#e6b662",
         "gradient_background": "",
         "padding_top": 12,
         "padding_bottom": 12
@@ -213,7 +213,7 @@
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
         "colors_text": "#212326",
-        "colors_background": "#ffffff",
+        "colors_background": "#EFE0D0",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -299,7 +299,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#E6B662",
+        "colors_background": "#e6b662",
         "gradient_background": "",
         "padding_top": 12,
         "padding_bottom": 12
@@ -425,7 +425,7 @@
         "use_custom_colors": false,
         "colors_icon": "#ffffff",
         "colors_text": "#1a1b18",
-        "colors_background": "#ffffff",
+        "colors_background": "#EFE0D0",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
