@@ -52,7 +52,7 @@
         "colors_heading": "#ffffff",
         "colors_link": "#ffffff",
         "colors_border": "#e6e6e6",
-        "colors_background": "#D6B097",
+        "colors_background": "#d6b097",
         "gradient_background": "linear-gradient(180deg, rgba(214, 176, 151, 1) 100%, rgba(247, 239, 231, 1) 100%)"
       }
     }
