@@ -205,8 +205,8 @@
         "use_custom_colors": true,
         "colors_icon": "#f1ff34",
         "colors_text": "#212326",
-        "colors_background": "#E6B662",
-        "gradient_background": "linear-gradient(310deg, rgba(230, 182, 98, 1) 15%, rgba(250, 218, 221, 1) 85%)",
+        "colors_background": "#e6b662",
+        "gradient_background": "radial-gradient(rgba(230, 182, 98, 1), rgba(255, 204, 75, 1) 100%)",
         "padding_top": 16,
         "padding_bottom": 16
       }
@@ -241,7 +241,7 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<style>.hx-routine{background:#FAF4EF;padding:56px 24px;font-family:Arial,sans-serif;color:#241A1A}.hx-routine-inner{max-width:1050px;margin:auto}.hx-routine h2{text-align:center;font-size:34px;margin:0 0 10px}.hx-routine .lead{text-align:center;color:#6B5A58;margin:0 auto 34px;max-width:650px}.hx-steps{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}.hx-step{background:#fff;border:1px solid #E8D8D2;border-radius:18px;padding:22px}.hx-num{display:inline-flex;width:34px;height:34px;align-items:center;justify-content:center;border-radius:50%;background:#7A1830;color:#fff;font-weight:700;margin-bottom:14px}.hx-step h3{font-size:17px;margin:0 0 8px}.hx-step p{font-size:14px;line-height:1.55;color:#6B5A58;margin:0}@media(max-width:749px){.hx-routine{padding:40px 18px}.hx-routine h2{font-size:28px}.hx-steps{grid-template-columns:1fr 1fr}}@media(max-width:460px){.hx-steps{grid-template-columns:1fr}}</style><section class=\"hx-routine\"><div class=\"hx-routine-inner\"><h2>Your 20-Minute LED Ritual</h2><p class=\"lead\">A simple, comfortable routine designed to support brighter, smoother-looking skin.</p><div class=\"hx-steps\"><div class=\"hx-step\"><span class=\"hx-num\">1</span><h3>Cleanse</h3><p>Begin with clean, dry skin and remove makeup or skincare residue.</p></div><div class=\"hx-step\"><span class=\"hx-num\">2</span><h3>Fit the mask</h3><p>Adjust the flexible silicone mask until it sits comfortably.</p></div><div class=\"hx-step\"><span class=\"hx-num\">3</span><h3>Select and relax</h3><p>Choose your preferred light mode and use for 10–20 minutes.</p></div><div class=\"hx-step\"><span class=\"hx-num\">4</span><h3>Finish your routine</h3><p>Apply serum or moisturizer. Use 3–5 times weekly for consistency.</p></div></div></div></section>",
+        "custom_liquid": "<style>.hx-routine{background:#FAF4EF;padding:56px 24px;font-family:Arial,sans-serif;color:#241A1A}.hx-routine-inner{max-width:1050px;margin:auto}.hx-routine h2{text-align:center;font-size:34px;margin:0 0 10px}.hx-routine .lead{text-align:center;color:#6B5A58;margin:0 auto 34px;max-width:650px}.hx-steps{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}.hx-step{background:#fff;border:1px solid #EFE0D0;border-radius:18px;padding:22px}.hx-num{display:inline-flex;width:34px;height:34px;align-items:center;justify-content:center;border-radius:50%;background:#EFE0D0;color:#fff;font-weight:700;margin-bottom:14px}.hx-step h3{font-size:17px;margin:0 0 8px}.hx-step p{font-size:14px;line-height:1.55;color:#6B5A58;margin:0}@media(max-width:749px){.hx-routine{padding:40px 18px}.hx-routine h2{font-size:28px}.hx-steps{grid-template-columns:1fr 1fr}}@media(max-width:460px){.hx-steps{grid-template-columns:1fr}}</style><section class=\"hx-routine\"><div class=\"hx-routine-inner\"><h2>Your 20-Minute LED Ritual</h2><p class=\"lead\">A simple, comfortable routine designed to support brighter, smoother-looking skin.</p><div class=\"hx-steps\"><div class=\"hx-step\"><span class=\"hx-num\">1</span><h3>Cleanse</h3><p>Begin with clean, dry skin and remove makeup or skincare residue.</p></div><div class=\"hx-step\"><span class=\"hx-num\">2</span><h3>Fit the mask</h3><p>Adjust the flexible silicone mask until it sits comfortably.</p></div><div class=\"hx-step\"><span class=\"hx-num\">3</span><h3>Select and relax</h3><p>Choose your preferred light mode and use for 10–20 minutes.</p></div><div class=\"hx-step\"><span class=\"hx-num\">4</span><h3>Finish your routine</h3><p>Apply serum or moisturizer. Use 3–5 times weekly for consistency.</p></div></div></div></section>",
         "full_width": false,
         "show_divider": false,
         "padding_top": 36,
@@ -273,8 +273,8 @@
         "use_custom_colors": true,
         "colors_icon": "#f1ff34",
         "colors_text": "#212326",
-        "colors_background": "#E6B662",
-        "gradient_background": "linear-gradient(310deg, rgba(230, 182, 98, 1) 15%, rgba(250, 218, 221, 1) 85%)",
+        "colors_background": "#e6b662",
+        "gradient_background": "radial-gradient(rgba(230, 182, 98, 1), rgba(255, 204, 75, 1) 100%)",
         "padding_top": 16,
         "padding_bottom": 16
       }
@@ -405,7 +405,7 @@
         "use_custom_colors": false,
         "colors_icon": "#ffffff",
         "colors_text": "#1a1b18",
-        "colors_background": "#ffffff",
+        "colors_background": "#E8D1A6",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 32
