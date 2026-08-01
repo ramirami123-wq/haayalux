@@ -31,10 +31,29 @@
             "button_size": "medium",
             "button_style_secondary": false
           }
+        },
+        "image_rH8mwn": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "text_box_position": "middle-center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h1",
+            "heading_tag": "h2",
+            "text": "",
+            "text_size": "typeset",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
         }
       },
       "block_order": [
-        "image_BHY67a"
+        "image_BHY67a",
+        "image_rH8mwn"
       ],
       "settings": {
         "slideshow_type": "legacy",
