@@ -9,31 +9,6 @@
  */
 {
   "sections": {
-    "zeid_hero_xY4zxQ": {
-      "type": "zeid-hero",
-      "name": "ZB — Hero",
-      "settings": {
-        "tag": "Rechargeable Silicone LED Face Mask",
-        "heading": "Professional LED Light Therapy\nMade for Home",
-        "subtext": "Flexible, rechargeable and cordless — a 10–20 minute ritual designed to support brighter, smoother-looking skin.",
-        "btn1_label": "Shop the LED Mask",
-        "btn1_link": "shopify://collections/all",
-        "btn2_label": "",
-        "btn2_link": "shopify://collections",
-        "image": "shopify://shop_images/haylux_4.jpg",
-        "image_url": "",
-        "image_radius": 28,
-        "mobile_image_order": "1",
-        "content_width": 1,
-        "image_width": 1,
-        "padding_top": 70,
-        "padding_bottom": 70,
-        "bg_color": "#EFE0D0",
-        "heading_color": "#241a1a",
-        "text_color": "#6b5a58",
-        "btn1_color": "#e6b662"
-      }
-    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -46,41 +21,21 @@
             "text_box_position": "middle-center",
             "subheading": "",
             "subheading_size": "h5",
-            "heading": "Image slide",
+            "heading": "Professional LED Light Therapy Made for Home",
             "heading_size": "h1",
             "heading_tag": "h2",
-            "text": "Give customers details about the slide image or content on the template.",
+            "text": "",
             "text_size": "typeset",
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "shop now",
+            "button_link": "shopify://products/7-color-light-facial-mask-therapy",
             "button_size": "medium",
-            "button_style_secondary": false
-          }
-        },
-        "slide-0": {
-          "type": "image",
-          "settings": {
-            "image_position": "center center",
-            "text_box_position": "middle-left",
-            "subheading": "",
-            "subheading_size": "h5",
-            "heading": "Zeid Beauty",
-            "heading_size": "h0",
-            "heading_tag": "h2",
-            "text": "Beauty tools for your daily routine.",
-            "text_size": "typeset2",
-            "button_label": "Explore the Collection",
-            "button_link": "shopify://collections/all",
-            "button_size": "small",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "image_BHY67a",
-        "slide-0"
+        "image_BHY67a"
       ],
-      "disabled": true,
       "settings": {
         "slideshow_type": "legacy",
         "text_alignment": "left",
@@ -90,7 +45,7 @@
         "full_width": true,
         "image_behavior": "none",
         "mobile_text_alignment": "left",
-        "mobile_image_ratio": "600px",
+        "mobile_image_ratio": "adapt_first",
         "show_text_below": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#611a20",
@@ -213,7 +168,7 @@
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
         "colors_text": "#212326",
-        "colors_background": "#EFE0D0",
+        "colors_background": "#efe0d0",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -425,7 +380,7 @@
         "use_custom_colors": false,
         "colors_icon": "#ffffff",
         "colors_text": "#1a1b18",
-        "colors_background": "#EFE0D0",
+        "colors_background": "#efe0d0",
         "gradient_background": "",
         "padding_top": 36,
         "padding_bottom": 36
@@ -443,7 +398,6 @@
     }
   },
   "order": [
-    "zeid_hero_xY4zxQ",
     "slideshow",
     "scrolling_promotion_8whPQf",
     "zeid_product_hero_nQeKAb",
