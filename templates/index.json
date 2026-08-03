@@ -68,7 +68,7 @@
         "mobile_image_ratio": "adapt_first",
         "show_text_below": false,
         "colors_button_label": "#ffffff",
-        "colors_button_background": "#E6B662",
+        "colors_button_background": "#e6b662",
         "colors_text": "#ffffff",
         "colors_background": "#ffffff",
         "colors_overlay": "#1a1b18",
@@ -136,7 +136,9 @@
         "rating_score": 5,
         "rating_count": 8,
         "cta_text": "Shop the LED Mask",
-        "trust_note": "Cash on delivery · Lebanon-wide shipping"
+        "cta_bg_color": "#E6B662",
+        "trust_note": "Cash on delivery · Lebanon-wide shipping",
+        "badge_bg_color": "#E6B662"
       }
     },
     "image_with_text_xwUfgU": {
