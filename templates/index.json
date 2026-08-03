@@ -35,6 +35,7 @@
         "image_rH8mwn": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/haylux_4.jpg",
             "image_position": "center center",
             "text_box_position": "middle-center",
             "subheading": "",
